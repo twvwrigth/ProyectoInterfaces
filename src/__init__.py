@@ -1,0 +1,1 @@
+"""Paquete principal del Tutor de Lengua de Señas Mexicana (LSM)."""
